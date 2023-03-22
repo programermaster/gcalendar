@@ -9,3 +9,4 @@ Google Calendar Events system for manage events
 4. php artisan serve
 5. open in browser tab http://127.0.0.1:8000
 6. you can add event to google calendar
+7. Calendar API is attached to test gmail acc calendardemolaravel@gmail.com ..oauth params are set in files under folder storage/app/google-calendar/ 
